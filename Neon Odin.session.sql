@@ -1,0 +1,11 @@
+-- CREATE TABLE usernames (
+--     id INTEGER PRIMARY KEY GENERATED ALWAYS AS IDENTITY,
+--     username VARCHAR (255)
+-- );
+-- INSERT INTO usernames (username)
+-- VALUES ('Mao'),
+--     ('nevz'),
+--     ('Lofty');
+-- SELECT *
+-- FROM usernames
+-- DROP TABLE usernames
